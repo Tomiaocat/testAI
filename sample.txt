@@ -1,0 +1,20 @@
+hello world this is a test
+machine learning is fascinating
+neural networks learn patterns
+deep learning models are powerful
+artificial intelligence is evolving
+transformers changed natural language processing
+attention mechanisms are important
+gradient descent optimizes weights
+backpropagation computes gradients
+training data teaches the model
+the model learns from examples
+weights are updated during training
+loss function measures error
+optimization minimizes the loss
+forward propagation computes predictions
+backward propagation computes gradients
+learning rate controls step size
+batch size affects training speed
+epochs determine training duration
+regularization prevents overfitting
